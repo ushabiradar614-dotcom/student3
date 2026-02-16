@@ -17,8 +17,8 @@ const addBtn = document.getElementById("addBtn");
 const updateBtn = document.getElementById("updateBtn"); 
 
 const stdArr = [
-{fname: 'Jhon', lname: 'Doe', email: 'jhon@gmail.com', contact: '9867456787', stdId: '9f9a07f0-a7bc-4dde-8a8b-2773b1ee65d0'},
-{fname: 'May', lname: 'Doe', email: 'may@gmail.com', contact: '4565549867', stdId: '55b7e01f-cbc6-4b45-b1fa-4d5e87f593fb'}
+{fname: 'xyz', lname: 'abc', email: 'xyz@gmail.com', contact: '9867456787', stdId: '9f9a07f0-a7bc-4dde-8a8b-2773b1ee65d0'},
+{fname: 'abc', lname: 'def', email: 'abc@gmail.com', contact: '4565549867', stdId: '55b7e01f-cbc6-4b45-b1fa-4d5e87f593fb'}
 ];
 
 const uuid = () => {
