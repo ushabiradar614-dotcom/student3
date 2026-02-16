@@ -1,0 +1,8 @@
+body{
+	background-color:#ededed;
+}
+
+#stdContainer i{
+	font-size:32px;
+	cursor:pointer;
+}
